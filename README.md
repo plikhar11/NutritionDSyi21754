@@ -5,5 +5,6 @@ CREDENTIALS:
 Instagram username: ds_nutrition_proj
 Instagram password: 2022pplnutri
 
-Nutritionix API ID:
-Nutritionix API Key:
+Nutritionix API ID: d49e09d6
+Nutritionix API Key: 64265998a8fe6997095d8ffb72a13862
+
